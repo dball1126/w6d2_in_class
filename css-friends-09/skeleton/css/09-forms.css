@@ -1,0 +1,35 @@
+/* PHASE 9: Forms */
+.form-group{
+    width: 620px;
+    height: 353px;
+}
+
+.form-field{
+    width: 500px;
+    height: 313px;
+    padding: 19px;
+    background-color: rgb(238, 238, 238);
+    border: black solid 1px;
+    float: right;
+}
+
+.content-main .thumb {
+    float: left;
+}
+
+.input-form-title {
+    width: 500px;
+    background-color: white;
+    border: 1px solid gray;
+    border-radius: 3px;
+    height: 41px;
+}
+
+.input-form-body {
+    width: 500px;
+    background-color: white;
+    border: 1px solid gray;
+    border-radius: 3px; 
+    height: 142px;
+}
+
